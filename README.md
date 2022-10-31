@@ -3,7 +3,6 @@
 <li align="left"> 👩‍💻 I'm a Fullstack Web Developer from Goiânia -  Brazil. </li>
 <li align="left">🌱 I'm Currently learning <b>Redis </b> and <b> OOP.</b> </li>
 <li align="left"> 👀 I'm looking for an opportunity to work as a developer. </li>
-<br>
 
 <h2 align="left">📫 Connect with me:</h2>
 <p align="left">
@@ -24,8 +23,8 @@
   <h5 align="left"> - Back-End</h5>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Express-010101?style=for-the-badge&logo=express&logoColor=white" alt="express" /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-NGINX-099639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /></a>
 
   <h4 align="left">- Databases and Services</h4>
@@ -42,7 +41,6 @@
 
   <h4 align="left">- Other tools</h4>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" /></a>
