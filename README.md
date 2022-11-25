@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flávia Bulad 🌸</h1>
 
-<li align="left"> 👩‍💻 I'm a Fullstack Web Developer from Goiânia -  Brazil. </li>
-<li align="left">🌱 I'm Currently learning <b>Redis </b> and <b> OOP.</b> </li>
+<li align="left"> 👩‍💻 I'm a Fullstack Web Developer </li>
+<li align="left">🌱 I'm Currently learning <b>Figma </b> and <b> OOP.</b> </li>
 <li align="left"> 👀 I'm looking for an opportunity to work as a developer. </li>
 
 <h2 align="left">📫 Connect with me:</h2>
