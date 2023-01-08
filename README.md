@@ -20,7 +20,6 @@
    <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled" /></a>
    <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material" /> </a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" alt="axios" /></a>
  
   <h5 align="left"> - Back-End</h5>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /></a>
