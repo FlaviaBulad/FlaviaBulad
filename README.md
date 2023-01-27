@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flávia Bulad 🌸</h1>
 
 <li align="left"> 👩‍💻 I'm a Fullstack Web Developer </li>
-<li align="left">🌱 I'm Currently learning <b>Java </b> and <b> Angular.</b> </li>
+<li align="left">🌱 I'm Currently learning <b>Next.js</b> </li>
 <li align="left"> 👀 I'm looking for an opportunity to work as a developer. </li>
 
 <h2 align="left">📫 Connect with me:</h2>
@@ -17,7 +17,6 @@
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
-   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /></a>
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled" /></a>
    <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material" /> </a>
  
