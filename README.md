@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Flávia Bulad 🌸</h1>
 
 <li align="left"> 👩‍💻 I'm a Fullstack Web Developer </li>
-<li align="left">🌱 I'm Currently learning <b>Next.js</b> </li>
-<li align="left"> 👀 I'm looking for an opportunity to work as a developer. </li>
-
-<h2 align="left">📫 Connect with me:</h2>
-<p align="left">
- <a href="https://www.linkedin.com/in/flaviabulad/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
- <a href="mailto:flavia.bulad@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-</p>
 
 <h2 align="left">🧰 Languages and Tools:</h2>
 
